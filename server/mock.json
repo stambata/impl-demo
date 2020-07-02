@@ -1,0 +1,10 @@
+{
+    "utStandard": {
+        "orchestrator": true,
+        "standard": false,
+        "dev": true,
+        "standardDispatch": {
+            "imports": ["utStandard.mock"]
+        }
+    }
+}

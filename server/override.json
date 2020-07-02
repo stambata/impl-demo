@@ -1,0 +1,11 @@
+{
+    "utStandard": {
+        "orchestrator": true,
+        "standardDispatch": {
+            "imports": ["utStandard.standard", "utCustom.custom"]
+        }
+    },
+    "utCustom": {
+        "orchestrator": true
+    }
+}

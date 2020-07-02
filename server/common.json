@@ -1,0 +1,11 @@
+{
+    "implementation": "demo",
+    "repl": false,
+    "utBus": {
+        "serviceBus": {
+            "jsonrpc": {
+                "domain": true
+            }
+        }
+    }
+}
